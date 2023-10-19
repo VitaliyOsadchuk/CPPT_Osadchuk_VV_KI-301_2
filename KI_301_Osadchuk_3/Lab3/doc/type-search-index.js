@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI301_Osadchuk_Lab3","l":"Copier"},{"p":"KI301_Osadchuk_Lab3","l":"Copy"},{"p":"KI301_Osadchuk_Lab3","l":"CopyApp"}];updateSearchResults();
